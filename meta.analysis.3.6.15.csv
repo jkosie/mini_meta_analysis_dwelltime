@@ -1,0 +1,11 @@
+study,source,m1i,m2i,sd1i,sd2i,ni,ri,notes
+1,hrt2011,0.18,-0.02,0.03,0.01,40,0.5,estimated correlation
+2,mdhbr2010,0.124,-0.044,0.046,0.026,28,0.5,estimated correlation
+3a,sb2014a,0.015,-0.002,0.017,0.1,36,-0.87,"from Kara (not same as article), including each sideshow rather than average of three"
+3b,sb2014b,0.015,0.002,0.02,0.006,36,-0.75,
+3c,sb2014c,0.023,0.0009,0.02,0.005,36,-0.58,
+4,sb2013,0.32,-0.21,0.17,0.16,64,-0.8,from Kara is same as article
+5a,sb2015a.adult,0.037,0.011,0.05,0.036,24,0.46,from Kara
+5b,sb2015b.adult,0.04,0.016,0.676,0.05,24,0.69,
+5c,sb2015c.adult,0.04,0.011,0.06,0.039,24,0.5,
+5d,sb2015d.adult,0.023,0.0026,0.061,0.02,24,0.04,
